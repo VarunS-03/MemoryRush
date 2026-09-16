@@ -1,0 +1,6 @@
+{
+  "name": "Memory Rush",
+  "description": "Fast, addictive arcade memory matching game with combos, power-ups, daily challenges, and progressive levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
